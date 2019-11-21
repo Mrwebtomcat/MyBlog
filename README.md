@@ -15,11 +15,15 @@ var isIPhoneXR = /iphone/gi.test(window.navigator.userAgent) && window.devicePix
      
 /*|_>open page time or speed*/
 https://web.dev/mainthread-work-breakdown/?utm_source=lighthouse&utm_medium=cli
+https://developers.google.com/web/updates/2018/09/inside-browser-part3
 
 /*transfrom webp*/
 https://www.cnblogs.com/zzsdream/p/11181374.html  压缩图片大小
 https://www.npmjs.com/package/webp-converter      构建本地批量生成webp
 https://developers.google.com/speed/webp 
 https://www.npmjs.com/package/cwebp
+
+
+
 
 
