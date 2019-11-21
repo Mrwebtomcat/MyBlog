@@ -12,3 +12,6 @@ var isIPhoneXR = /iphone/gi.test(window.navigator.userAgent) && window.devicePix
 /*peformed*/
     lightHoruse: https://developers.google.com/web/tools/lighthouse/
      1、灯塔： Lighthouse是一种开源的，自动化的工具，用于提高网页质量。您可以在公开或需要身份验证的任何网页上运行它。它对性能，可访问性，渐进式Web应用程序等进行审核。
+     
+/*|_>open page time or speed*/
+https://web.dev/mainthread-work-breakdown/?utm_source=lighthouse&utm_medium=cli
