@@ -10,5 +10,5 @@ var isIPhoneXSMax = /iphone/gi.test(window.navigator.userAgent) && window.device
 var isIPhoneXR = /iphone/gi.test(window.navigator.userAgent) && window.devicePixelRatio && window.devicePixelRatio === 2 && window.screen.width === 414 && window.screen.height === 896;
 
 /*peformed*/
-lightHoruse: https://developers.google.com/web/tools/lighthouse/
-1、灯塔： Lighthouse是一种开源的，自动化的工具，用于提高网页质量。您可以在公开或需要身份验证的任何网页上运行它。它对性能，可访问性，渐进式Web应用程序等进行审核。
+    lightHoruse: https://developers.google.com/web/tools/lighthouse/
+     1、灯塔： Lighthouse是一种开源的，自动化的工具，用于提高网页质量。您可以在公开或需要身份验证的任何网页上运行它。它对性能，可访问性，渐进式Web应用程序等进行审核。
